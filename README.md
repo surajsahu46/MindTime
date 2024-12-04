@@ -132,8 +132,7 @@ interface TimeEntry {
 ### Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone [https://github.com/yourusername/mindtime.git](https://github.com/surajsahu46/MindTime/)
-   cd mindtime
+   git clone [https://github.com/surajsahu46/mindtime.git]
    \`\`\`
 
 2. Install dependencies:
